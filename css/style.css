@@ -94,7 +94,7 @@ body {
 }
 
 .hero__tagline {
-  max-width: 500px;
+  max-width: 700px;
   color: var(--text);
   font-size: 1.05rem;
 }
